@@ -1,7 +1,7 @@
 # Admin Dashboard
 
 ### Live Demo
-https://gitmostafa.github.io/admin-dashboard/
+https://mostafa-aboelmagd.github.io/admin-dashboard/
 
 ### Description
 * Admin Dashboard Demo Page For An Online Service
